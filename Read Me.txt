@@ -1,0 +1,4 @@
+This is a youtube viewer bot
+To change the settings go down to settings.txt and change the "for i in range (20):" to how many pages you want to be opened. after that change from txt to .py after
+VERY IMPORTANT IF YOU WANT TO CHANGE THE SETTINGS MAKE SURE TO COPY THE TEXT DOCUMENT
+    
